@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 89b4313ed8185014aa7c9f09a925e183
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/grass.unity
+    guid: b3942ffb385e7e7439d788fa1d30fdb9
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: 95a8c1292e17ed24586d089efe9e2a36
+  - enabled: 1
+    path: Assets/Scenes/pausemenn.unity
+    guid: 2d7facfb3b9c044479b60a2d7ad3b5a2
+  - enabled: 1
+    path: Assets/Scenes/store.unity
+    guid: e811829328af3324fa3abf67c6926359
+  m_configObjects: {}
